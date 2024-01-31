@@ -6,7 +6,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
  * Plugin Name:       AJDWP-Theme-accessories
  * Plugin URI:        https://github.com/arash12javadi/
  * Description:       Convenient and essential functions, easily executable, all bundled in a single plugin. Enjoy :)
- * Version:           1
+ * Version:           240131
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Arash Javadi
